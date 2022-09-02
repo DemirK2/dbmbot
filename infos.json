@@ -1,0 +1,12 @@
+[
+    {
+        "name": "test",
+        "description": "This is a test.",
+        "image": "https://cdn.discordapp.com/icons/335407595890409472/25dca8421746e4c8feb6440bd6e241ed.webp",
+        "thumbnail": "https://cdn.discordapp.com/icons/335407595890409472/25dca8421746e4c8feb6440bd6e241ed.webp",
+        "fields": [
+            { "name": "Test:", "value": "1", "inline": true },
+            { "name": "Test:", "value": "2", "inline": false }
+        ]
+    }
+]
