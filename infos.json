@@ -8,5 +8,11 @@
             { "name": "Test:", "value": "1", "inline": true },
             { "name": "Test:", "value": "2", "inline": false }
         ]
+    },
+    {
+        "name": "test2",
+        "fields": [
+            { "name": "Test:", "value": "1", "inline": true }
+        ]
     }
 ]
