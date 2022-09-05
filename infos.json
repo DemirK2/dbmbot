@@ -33,10 +33,10 @@
     },
     {
         "name": "vps",
-        "description": "A VPS is a Virtual Private Server. But why do you need one?\nTo keep your bot online 24/7, you can keep a pc on 24/7 or rent a VPS.\nHere is a list of VPS's. We do not provide support for any of them! But there are a few tutorials.",
+        "description": "**24/7 Hosting (VPS)**\nA VPS is a Virtual Private Server. But why do you need one?\nTo keep your bot online 24/7, you can keep a pc on 24/7 or rent a VPS.\nHere is a list of VPS's. We do not provide support for any of them! But there are a few tutorials.",
         "fields": [
             { "name": "Raspberry Pi 3 (Paid)", "value": "[Tutorial](https://www.silversunset.net/dbm/tutorials?topic=VPS_Tutorials#raspberry-pi)" },
-            { "name": "Digital Ocean (Paid)", "value": "[Tutorial 1](https://www.silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)\n[Tutorial 2](https://silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)" }
+            { "name": "Digital Ocean (Paid)", "value": "[Tutorial](https://www.silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)\n[Tutorial 2](https://silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)" }
         ]
         
     }
