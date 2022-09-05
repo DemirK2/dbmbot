@@ -10,9 +10,34 @@
         ]
     },
     {
-        "name": "test2",
+        "name": "dbm",
+        "description": "Discord Bot Maker is a powerful bot development tool for the #1 text and voice chat service for gamers: Discord. With this tool, you and your teammates can take your social experience to the next level!\n\nDiscord Bot Maker is powerful, yet flexible, tool that allows both experienced programmers and bot newcomers to construct outstandingly effective bots in a matter of seconds. By piecing together actions that may occur through commands or events, one may create the bot of their dreams!\n\n[Get it on Steam](https://store.steampowered.com/app/682130/Discord_Bot_Maker)"
+    },
+    {
+        "name": "cmd",
         "fields": [
-            { "name": "Test:", "value": "1", "inline": true }
+            { "name": "Command Line", "value": "Open your bot project folder, click address bar at the top and delete everything in there. Type `cmd` and press enter. It should open the command prompt in your bot project folder. After that just type `node bot.js`.\n**(You need to install Node.js to be able to do that)**" }
+        ],
+        "image": "https://i.imgur.com/rWHea2C.gif"
+    },
+    {
+        "name": "verify",
+        "fields": [
+            { "name": "Verify Files", "value": "DBM doesn't start? Do you miss an action? Do you want to remove your modifications? Donald Trump pressed the red button? Here is the help!\n\nThis will reset your DBM files. You will keep your project and all data.\n\n1. Close DBM and open Steam\n2. Open Software Library section\n3. Right-click on DBM and select Properties from the menu\n4. Select the Local files tab\n5. Click the Verify integrity of game files button.\n6. Steam will verify the game's files - this process may take several minutes." }
+        ],
+        "image": "https://i.imgur.com/8QIT0h4.png"
+    },
+    {
+        "name": "beta",
+        "description": "There is no reason to use beta anymore. If you still want to use the old version;\n\n1. Close DBM\n2. Open Steam\n3. Open your software library\n4. Right-click Discord Bot Maker\n5. Select Properties (at the bottom)\n6. Select BETAS\n7. Select the beta version you want from the drop down menu (no key is required)\n8. DBM should update now. Otherwise restart Steam."
+    },
+    {
+        "name": "vps",
+        "description": "A VPS is a Virtual Private Server. But why do you need one?\nTo keep your bot online 24/7, you can keep a pc on 24/7 or rent a VPS.\nHere is a list of VPS's. We do not provide support for any of them! But there are a few tutorials.",
+        "fields": [
+            { "name": "Raspberry Pi 3 (Paid)", "value": "[Tutorial](https://www.silversunset.net/dbm/tutorials?topic=VPS_Tutorials#raspberry-pi)" },
+            { "name": "Digital Ocean (Paid)", "value": "[Tutorial 1](https://www.silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)\n[Tutorial 2](https://silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)" }
         ]
+        
     }
 ]
