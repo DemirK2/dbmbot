@@ -39,5 +39,9 @@
             { "name": "Digital Ocean (Paid)", "value": "[Tutorial](https://www.silversunset.net/dbm/tutorials?topic=VPS_Tutorials#digital-ocean)" }
         ]
         
+    },
+    {
+        "name": "mods",
+        "description": "The mods server invite link is: https://discord.gg/djcvWRpgHm"
     }
 ]
